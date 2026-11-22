@@ -37,7 +37,7 @@ window.DADOS = {
     "texto": "a loja confirma disponibilidade, pagamento e entrega."
    },
    {
-    "titulo": "Aceitamos cartões.",
+    "titulo": "Aceitamos cartões, Pix e Dinheiro",
     "texto": ""
    }
   ]
