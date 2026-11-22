@@ -27,7 +27,7 @@ window.DADOS = {
   ]
  },
  "textos": {
-  "faixa": "Aceitamos cartões  ·  Peça pelo WhatsApp",
+  "faixa": "Aceitamos cartões, Pix e Dinheiro  ·  Peça pelo WhatsApp",
   "slogan": "seu skate com quem entende",
   "tituloCategorias": "O que tem na loja",
   "tituloMarcas": "Marcas na loja",
@@ -504,7 +504,7 @@ window.DADOS = {
    "sub": "rodas-chaze",
    "nome": "Roda Chaze",
    "desc": "Consulte medidas e disponibilidade no WhatsApp.",
-   "preco": 99.0,
+   "preco": 99,
    "img": "images/produtos/roda-chaze.webp"
   },
   {
@@ -513,7 +513,7 @@ window.DADOS = {
    "sub": "trucks-trurium",
    "nome": "Truck Trurium",
    "desc": "Consulte medidas e disponibilidade no WhatsApp.",
-   "preco": 499.0,
+   "preco": 499,
    "img": "images/produtos/truck-trurium.webp"
   },
   {
@@ -522,7 +522,7 @@ window.DADOS = {
    "sub": "trucks-stronger",
    "nome": "Truck Stronger Essência",
    "desc": "Consulte medidas e disponibilidade no WhatsApp.",
-   "preco": 259.0,
+   "preco": 259,
    "img": "images/produtos/truck-stronger-essencia.webp"
   },
   {
@@ -531,7 +531,7 @@ window.DADOS = {
    "sub": "skates-montados",
    "nome": "Skate Montado Chaze",
    "desc": "Consulte medidas e disponibilidade no WhatsApp.",
-   "preco": 400.0,
+   "preco": 400,
    "img": "images/produtos/skate-montado-chaze.webp"
   },
   {
